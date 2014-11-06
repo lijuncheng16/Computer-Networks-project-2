@@ -1,0 +1,2 @@
+We finished implementation of the sliding window.
+Also, we implemented our version of congestion control, but we had limited time for testing.
